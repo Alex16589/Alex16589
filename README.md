@@ -15,6 +15,8 @@ This is my digital space where I share my work and collaborate with others.
 | **C**      | ✅ Certified |
 | **C++**    | ✅ Certified |
 | **Python** | ✅ Certified |
+| **SQL**    | ✅ Certified |
+| **JavaScript** | ✅ Certified |
 
 ---
 
